@@ -1,0 +1,12 @@
+# Build directories
+cmake-build-debug/
+cmake-build-debug-mingw/
+cmake-build-debugnoasserts/
+cmake-build-release/
+components/executable/cmake-build-debug
+components/engine/cmake-build-debug
+components/engine/vendor/GLAD/cmake-build-debug
+components/engine/vendor/ImGui/cmake-build-debug
+
+# IDE files
+.idea/
